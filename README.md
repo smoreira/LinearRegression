@@ -1,4 +1,4 @@
-## Regressão Linear
+## Regressão Linear com TensorFlow 2.0
 
 Repositório do segundo episódio da série de Webinar sobre Machine Learning com TensorFlow.
 
@@ -8,7 +8,7 @@ Apresentado por: Sandro Moreira - GDG Rio Verde
 
 Códigos disponíveis em: github.com/smoreira/LinearRegression
 
-Video no Youtube ## https://youtu.be/z4Q6rWUWpvE
+Video no Youtube ## https://youtu.be/z4Q6rWUWpvE ##
 
 
 Referências: 
