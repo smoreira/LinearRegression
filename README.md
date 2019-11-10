@@ -9,3 +9,8 @@ Apresentado por: Sandro Moreira - GDG Rio Verde
 Códigos disponíveis em: github.com/smoreira/LinearRegression
 
 Video no Youtube #https://youtu.be/z4Q6rWUWpvE
+
+
+Referências: 
+https://heartbeat.fritz.ai/linear-regression-using-tensorflow-2-0-1cd51e211e1f
+https://www.tensorflow.org/tutorials/keras/regression
